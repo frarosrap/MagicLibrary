@@ -29,6 +29,13 @@ hs_err_pid*
 
 # Ignore Gradle project-specific cache directory
 .gradle
+graddle
+gradlew
+gradlew.bat
+settings.gradle
+createDDL.jdbc
+dropDDL.jdbc
+build.gradle
 
 # Ignore Gradle build output directory
 build
@@ -36,3 +43,4 @@ build
 # Ignora configuración del proyecto eclipse
 .project
 .settings
+.classpath 
